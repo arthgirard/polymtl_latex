@@ -81,8 +81,8 @@ Configurez les métadonnées de votre équipe avant le marqueur de début de doc
 \department{Département}
 
 \addmember{Premier collaborateur}{1234567}
-\addmember{Second collaborateur}{7654321}
-% \addmember{Autres collaborateurs}{1234567}
+\addmember{Second collaborateur}{2345678}
+% \addmember{Autres collaborateurs}{3456789}
 \date{\today}
 ```
 
