@@ -48,13 +48,6 @@ Ce gabarit illustre l'ensemble des fonctionnalités de \texttt{poly.cls}.
 Chaque section cible un groupe de paquets précis afin de servir de
 référence lors de la rédaction de rapports à Polytechnique Montréal.
 
-Le couple transmis est donné par l'\cref{eq:couple} :
-\begin{equation}
-    \tau = F \cdot r \cdot \eta
-    \label{eq:couple}
-\end{equation}
-où les symboles sont définis dans la nomenclature.
-
 \section{Typographie et mise en forme}
 
 \subsection{Hiérarchie des titres colorés}
@@ -63,7 +56,7 @@ La classe définit trois niveaux :
 \begin{itemize}[label=\textbullet, noitemsep]
     \item \texttt{\textbackslash section} — rouge Polytechnique
           \textcolor{titre}{\rule{0.8em}{0.8ex}}~;
-    \item \texttt{\textbackslash subsection} — rouge doux
+    \item \texttt{\textbackslash subsection} — rouge pâle
           \textcolor{soustitre}{\rule{0.8em}{0.8ex}}~;
     \item \texttt{\textbackslash subsubsection} — rouge foncé
           \textcolor{sousoustitre}{\rule{0.8em}{0.8ex}}.
@@ -257,7 +250,7 @@ La \cref{fig:tikz} représente un système masse-ressort-amortisseur.
         \draw[thick] (0.9,-0.15) rectangle (1.9,0.35);
         \draw[thick] (1.4,-0.15) -- (1.4,0.35);  % piston
         \draw[thick] (1.9,0.1) -- (2.6,0.1);
-        \node[above] at (1.4,0.38) {$c$};
+        \node[below] at (1.4,-0.15) {$c$};
         % Masse
         \draw[thick, fill=gray!25] (2.6,-0.2) rectangle (3.7,0.9);
         \node at (3.15,0.35) {$m$};
