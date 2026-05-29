@@ -4,16 +4,26 @@ on:
   push:
     branches: [master]
   pull_request:
+  release:
+    types: [created]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex
+          root_file: template.tex
+
       - uses: actions/upload-artifact@v4
         with:
-          name: rapport-poly
-          path: main.pdf
+          name: template-poly
+          path: template.pdf
+
+      - name: Upload PDF to release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: template.pdf
