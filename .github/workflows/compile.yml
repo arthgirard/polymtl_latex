@@ -13,12 +13,12 @@ jobs:
 
       - uses: xu-cheng/latex-action@v3
         with:
-          root_file: template.tex
+          root_file: Démo.tex
 
       - uses: actions/upload-artifact@v4
         with:
-          name: template-poly
-          path: template.pdf
+          name: Démonstration
+          path: Démo.pdf
 
       - name: Create or update latest tag
         if: github.ref == 'refs/heads/master'
@@ -35,4 +35,4 @@ jobs:
           tag_name: latest
           name: Latest Build
           prerelease: true
-          files: template.pdf
+          files: Démo.pdf
