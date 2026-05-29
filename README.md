@@ -4,7 +4,7 @@ Classe LaTeX clé-en-main pour rédiger des rapports techniques conformes aux no
  
 [![Compile LaTeX](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml/badge.svg)](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PDF](https://img.shields.io/badge/template-PDF-red.svg)](https://github.com/arthgirard/polymtl_latex/releases/download/latest/template.pdf)
+[![PDF](https://img.shields.io/badge/template-PDF-red.svg)](https://github.com/arthgirard/polymtl_latex/releases/download/latest/Démo.pdf)
 
 ---
 
