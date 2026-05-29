@@ -1,10 +1,16 @@
-![LaTeX Build](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml/badge.svg)
+<div align="center">
+  <img src="figures/poly-logo.png" width="180px" alt="Polytechnique Montréal"/>
+  
+  # Gabarit LaTeX pour Polytechnique Montréal
 
-[📄 Voir le template compilé (PDF)](https://github.com/arthgirard/polymtl_latex/releases/download/latest/template.pdf)
+  [![Compile LaTeX](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml/badge.svg)](...)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![Template](https://img.shields.io/badge/Use%20this-template-green)](...)
 
-# Gabarit LaTeX pour Polytechnique Montréal
+  Classe de document optimisée pour la rédaction de rapports techniques, projets de conception et travaux pratiques selon les exigences de Polytechnique Montréal.
 
-Classe de document optimisée pour la rédaction de rapports techniques, projets de conception et travaux pratiques selon les exigences de Polytechnique Montréal.
+  [📄 Voir le PDF compilé](lien) · [🚀 Utiliser ce template](#guide-de-démarrage)
+</div>
 
 ---
 
