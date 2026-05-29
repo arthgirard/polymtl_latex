@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="figures/poly-logo.png" width="180px" alt="Polytechnique Montréal"/>
-  
-  # Gabarit LaTeX pour Polytechnique Montréal
-
-  [![Compile LaTeX](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml/badge.svg)](...)
+  <img src="figures/poly-logo.png" width="280px" alt="Polytechnique Montréal"/>
+  <h1>Gabarit LaTeX — Polytechnique Montréal</h1>
+ 
+  <p>Classe LaTeX clé-en-main pour rédiger des rapports techniques conformes aux normes<br>graphiques de Polytechnique Montréal.</p>
+  [![Compile LaTeX](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml/badge.svg)](https://github.com/arthgirard/polymtl_latex/actions/workflows/compile.yml)
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Template](https://img.shields.io/badge/Use%20this-template-green)](...)
-
-  Classe de document optimisée pour la rédaction de rapports techniques, projets de conception et travaux pratiques selon les exigences de Polytechnique Montréal.
-
-  [📄 Voir le PDF compilé](lien) · [🚀 Utiliser ce template](#guide-de-démarrage)
+ 
+  [Documentation/Démo (PDF)](https://github.com/arthgirard/polymtl_latex/releases/download/latest/template.pdf) &nbsp;·&nbsp; [Utiliser le template](https://github.com/new?template_name=polymtl_latex&template_owner=arthgirard)
+ 
 </div>
 
 ---
