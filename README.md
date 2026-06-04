@@ -1,4 +1,4 @@
-# <img src="figures/poly-bande.svg" height="24px" alt=""/> Gabarit LaTeX — Polytechnique Montréal
+# Gabarit LaTeX — Polytechnique Montréal
  
 Classe LaTeX clé-en-main pour rédiger des rapports techniques conformes aux normes graphiques de Polytechnique Montréal.
  
