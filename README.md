@@ -6,6 +6,8 @@ Classe LaTeX clé-en-main pour rédiger des rapports techniques conformes aux no
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![D%C3%A9mo](https://img.shields.io/badge/D%C3%A9mo-PDF-red.svg)](https://github.com/arthgirard/polymtl_latex/releases/download/latest/template.pdf)
 
+![démo](figures/démo.png)
+
 ---
 
 ## Table des matières
