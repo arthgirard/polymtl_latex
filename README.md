@@ -1,4 +1,5 @@
 # PolyTeX
+### Gabarit LaTeX pour Polytechnique Montréal
  
 Classe LaTeX clé-en-main pour rédiger des rapports techniques conformes aux normes graphiques de Polytechnique Montréal.
  
